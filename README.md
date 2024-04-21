@@ -1,5 +1,5 @@
 # rust-feedback-service
-🦀 Playing with rust
+🦀 Playing with rust.
 
 
-I will be a simple service to manage customer feedbacks and store it.
+It will be a simple service to manage and store customer feedback. 
